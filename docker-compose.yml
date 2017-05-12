@@ -1,0 +1,4 @@
+dev:
+  build: ./
+  command: /bin/bash
+  working_dir: /root
